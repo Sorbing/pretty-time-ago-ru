@@ -1,6 +1,7 @@
 /*
  * JavaScript Library: Pretty Time Ago Russian
  * Author: Stanislav Butsenko
+ * Source: https://github.com/sorbing/pretty-time-ago-ru
  * Based on "JavaScript Pretty Date" library, John Resig, https://johnresig.com/blog/javascript-pretty-date/
  * Licensed under the MIT and GPL licenses.
  */
